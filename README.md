@@ -9,7 +9,9 @@ A simple and interactive web application that converts text input into spoken vo
 - 🧑‍💻 Built using **HTML, CSS, and JavaScript**  
 - ⚡ Works on modern browsers without extra libraries  
 
+## 🌐 Live Demo
 
+👉 [Click here to try it out](https://github.com/chandraraopalla/sprintsjsproject.git/)
 
 ## 🛠️ Technologies Used
 
@@ -28,3 +30,4 @@ A simple and interactive web application that converts text input into spoken vo
 ## 👨‍💻 Author
 
 **Chandra Rao**
+[GitHub](https://github.com/chandraraopalla)
